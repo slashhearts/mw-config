@@ -2061,6 +2061,7 @@ $wgConf->settings = array(
 	'wgUseInstantCommons' => array(
 		'default' => true,
 		'amaninfowiki' => false,
+		'sidemwiki' => false,
 		'pso2wiki' => false,
 		'thefosterswiki' => false,
 	),
@@ -4002,6 +4003,7 @@ $wgConf->settings = array(
 		'sdeuropewiki' => "//$wmgUploadHostname/sdeuropewiki/d/d4/Logo.jpg",
 		'sfrepresentuswiki' => "//$wmgUploadHostname/sfrepresentuswiki/4/41/RepUsLogo_small.png",
 		'shadawiki' => "//$wmgUploadHostname/shadawiki/e/e3/SHA_Wiki_logo.svg",
+		'sidemwiki' => "//$wmgUploadHostname/sidemwiki/a/a5/Sidem-logo.png",
 		'sirikotwiki' => '//www.sirikot.com/wiki_logo.png',
 		'sjuhabitatwiki' => "//$wmgUploadHostname/sjuhabitatwiki/7/7a/Habi_logo_wiki.png",
 		'skyfireflyffwiki' => "//$wmgUploadHostname/skyfireflyffwiki/c/c9/Logo.png",
